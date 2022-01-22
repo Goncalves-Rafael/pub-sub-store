@@ -1,0 +1,10 @@
+INSCRITO COM SUCESSO NA FILA: shipping
+✔ SUCCESS, SHIPPING AUTHORIZED, SEND TO:
+{
+  zipCode: '11321654',
+  street: 'Rua com Nome',
+  number: '111',
+  neighborhood: 'O Bairo',
+  city: 'A Cidade',
+  state: 'O Estado'
+}
